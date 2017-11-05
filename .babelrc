@@ -1,6 +1,6 @@
 //Transpiler : Babel
 {
 "presets": [
-  "Latest"   // This indicates to use all latest and standardised Javascript features
+  "Latest"
 ]
 }
